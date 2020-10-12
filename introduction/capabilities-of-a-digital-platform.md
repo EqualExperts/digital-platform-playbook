@@ -106,3 +106,47 @@ The most common Digital Platform capabilities and the corresponding features tha
 * Transfer all service setup from one team to another team.
 * Delete a service in its entirety.
 
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left"></th>
+      <th style="text-align:left"></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">
+        <p></p>
+        <p>
+          <img src="https://lh6.googleusercontent.com/ZqXIxZhEkEL-6Q1LnUG38RWJq7Z5dCiDGAe7hFSlBiUm3RsgHIHhISflN871LcRxkCLcQbfOVOpvUp1KI8dHaY04EHJ5Rhjh3AVt3T21ilvdfo6q6n3KQZ6t4yAQ6EnxhfoiRJ_g"
+          alt/>
+        </p>
+      </td>
+      <td style="text-align:left">
+        <p>I joined the Self Assessment team at HMRC in 2015. In many projects I
+          was involved in beforehand, the developers often didn&#x2019;t have an
+          opportunity to see their services in use. I find this approach incomplete
+          and unsatisfying. Hence, I was glad when on my first day at HMRC, we reviewed
+          telemetry dashboards as part of our standup.</p>
+        <p></p>
+        <p>The telemetry embedded into the Tax Platform didn&#x2019;t just help us
+          to debug problems in production. Inspecting how our service operated under
+          real load helped me understand Scala in-depth, which was new for me at
+          that time.</p>
+        <p></p>
+        <p>Business metrics provided constant feedback on how our changes impact
+          user experience. I believe this contributed to a high sense of ownership
+          in the team.</p>
+        <p></p>
+        <p>The ability to customise our telemetry dashboards helped us prepare for
+          the Self Assessment peak in early 2016. Observing the performance of every
+          crucial element of our service under higher load made us confident that
+          our response to a potential failure would be effective.</p>
+        <p></p>
+        <p><a href="https://www.linkedin.com/in/kasiakittel/">Katarzyna Kittel</a>,
+          Software Engineer</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
