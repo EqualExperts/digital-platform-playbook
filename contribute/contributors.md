@@ -27,6 +27,30 @@ This playbook was produced by a number of people within the[ Equal Experts netwo
 ![Dave Hewett](../.gitbook/assets/davehewett.png)
 
 ![Edd Grant](../.gitbook/assets/eddgrant%20%281%29.png)
+
+![Jon Barber](../.gitbook/assets/jonbarber.png)
+
+![Jon Dickinson](../.gitbook/assets/jondickinson.png)
+
+![Katarzyna Kittel](../.gitbook/assets/katarzynakittel.png)
+
+![Kulvinder Singh](../.gitbook/assets/kulvindersingh.jpeg)
+
+![Lyndsay Prewer](../.gitbook/assets/lyndsayprewer.png)
+
+![Matt Ralph](../.gitbook/assets/matthewraplh.png)
+
+![Ogonna Iwunze](../.gitbook/assets/ogonnaiwunze.jpg)
+
+![Paul O&apos;Donnell](../.gitbook/assets/paulodonnell.png)
+
+![Reda Hmeid](../.gitbook/assets/redahmeid.png)
+
+![Sam McGregor](../.gitbook/assets/sammcgregor.png)
+
+![Steve Smith](../.gitbook/assets/stevesmith.jpg)
+
+![Stuart Gunter](../.gitbook/assets/stuartgunter%20%281%29.png)
 {% endtab %}
 {% endtabs %}
 

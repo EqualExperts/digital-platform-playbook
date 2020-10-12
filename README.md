@@ -16,7 +16,7 @@ The lead authors of this playbook are:
 
 ![Edd Grant](.gitbook/assets/eddgrant%20%282%29.png)
 
-![Steve Smith](.gitbook/assets/stevesmith%20%281%29.jpg)
+![Steve Smith](.gitbook/assets/stevesmith%20%282%29.jpg)
 {% endtab %}
 {% endtabs %}
 
