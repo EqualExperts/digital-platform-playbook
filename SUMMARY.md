@@ -8,4 +8,6 @@
   * [Capabilities of a Digital Platform](introduction/capabilities-of-a-digital-platform.md)
   * [When to start a Digital Platform](introduction/when-to-start-a-digital-platform.md)
 * [Principles](principles.md)
+* [Practices](practices.md)
+* [Bootstap](bootstap.md)
 
