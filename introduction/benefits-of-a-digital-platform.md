@@ -1,4 +1,4 @@
-# What are the benefits of a Digital Platform
+# Benefits of a Digital Platform
 
 A Digital Platform provides the following benefits:
 
