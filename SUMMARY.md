@@ -11,4 +11,5 @@
 * [Practices](practices/README.md)
   * [Bootstap](practices/bootstap.md)
   * [Architecture](practices/architecture.md)
+  * [Paved Road](practices/paved-road.md)
 
