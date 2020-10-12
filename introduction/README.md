@@ -8,10 +8,6 @@ To be competitive, your organisation must rapidly explore new product offerings 
 
 You might have multiple teams in a brownfield or greenfield IT estate, where your ability to deliver product features is constrained by your technology capabilities. In either scenario, a Digital Platform optimised for the delivery of Digital Services might be an accelerator for your organisation – if you can make a multi-year commitment to investment. A Digital Platform isn’t a small undertaking, and requires ongoing funding for you to realise the greatest benefits..
 
-For example, here’s a team diagram for a fictional Digital Platform. It shows one team working on the Digital Platform, and five teams using it to build Digital Services. Teams within the organisation are able to offer additional expertise, and third-party support is also available from suppliers such as your public cloud provider.
-
-![Teams on a Digital Platform](../.gitbook/assets/digital-platform-teams.png)
-
 ### **Who is this playbook for**
 
 We’ve created this playbook to help you and your colleagues build a Digital Platform together. It’s for everyone in your organisation, not just software developers or operability engineers. That includes CIOs, CTOs, product managers, analysts, delivery leads, engineering managers, and more.
