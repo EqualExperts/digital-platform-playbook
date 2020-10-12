@@ -51,6 +51,10 @@ This playbook was produced by a number of people within the[ Equal Experts netwo
 ![Steve Smith](../.gitbook/assets/stevesmith.jpg)
 
 ![Stuart Gunter](../.gitbook/assets/stuartgunter%20%281%29.png)
+
+![Thomas de Cad&apos;oro Granier](../.gitbook/assets/thomasdecadorogranier.png)
+
+![Tom Grace](../.gitbook/assets/tomgrace.png)
 {% endtab %}
 {% endtabs %}
 
