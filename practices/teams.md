@@ -39,3 +39,53 @@ The two most common Digital Platform expenses are team costs \(team member salar
 
 Ideally, the single budget holder is the Digital Platform product manager, as a peer of Digital Service product managers.
 
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left"></th>
+      <th style="text-align:left"></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">
+        <p></p>
+        <p>
+          <img src="https://lh3.googleusercontent.com/c_kMldBrGvbWBeE2HlokbMncin6K6qJ2N4R3trHxGUGLcmz-eHEyouRA8xO1rN-II0ryYir3RjnnsQGhli_FkaNKmBP5IfUCTpcjm6lwpFn1vhBtjpE_de3YIrgfofkhejneW_VT"
+          alt/>
+        </p>
+      </td>
+      <td style="text-align:left">
+        <p>At an EMEA payments provider, we started with a Payment Gateway service,
+          with the vision of building a Digital Platform to host and provide other
+          payment services. We invested time in building telemetry tools, which were
+          embedded into the Digital Platform itself.
+          <br />
+        </p>
+        <p>Within a year, we had a Digital Platform where developers were able to
+          roll out new Digital Services services with minimal help from the Digital
+          Platform team. Newly onboarded teams were able to launch new payment services
+          into production in less than a week.
+          <br />
+        </p>
+        <p>These practices helped us:
+          <br />
+        </p>
+        <ul>
+          <li>Strong deployment pipelines encouraged teams to deploy frequently.</li>
+          <li>Deployment dashboards helped teams get feedback on their deployment frequency.</li>
+          <li>Embedded telemetry meant teams could debug and analyse payment abnormalities
+            within the Digital Platform or external integration partners within minutes</li>
+          <li>Deep integration of incident management tools into Slack reduced context
+            switching and helped teams to collaborate.</li>
+          <li>Feature toggle based development ensured teams kept deploying services
+            that were decoupled from business processes</li>
+        </ul>
+        <p>
+          <br /><a href="https://www.linkedin.com/in/anantkpal/">Anant Pal</a>, Software
+          Engineer</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
