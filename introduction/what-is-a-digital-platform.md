@@ -47,7 +47,7 @@ A Digital Platform is primarily about the people who build it and use it. It exi
 For example, feedback from your Digital Service teams might include complaints about a historical, time-consuming change-approvals process in your organisation owned by an overworked change management team. Your Digital Platform needs to provide an automated deployment pipeline that acts as an automated audit trail. If your Digital Platform teams can present a live audit trail that reduces toil for the change management team, their needs might be met by a streamlined, self-service process, in which Digital Service teams peer-review their own change requests.
 
 {% tabs %}
-{% tab title="Experience Report" %}
+{% tab title="EMEA payments provider experience" %}
 When we built a Digital Platform at an EMEA payments provider, our Digital Service teams reported the change approvals process was a painful bottleneck. It was a manual process via email, with lots of review and sign-off steps. The process existed to provide security and ensure the organisation maintained its PCI DSS compliance.
 
 We worked with the change management team to understand what was needed to give the same assurance as the manual process. Jira tickets were automatically linked to code changes, and auditing was added to ensure complete traceability for deployments. We even included an automated post-deploy email for change reconciliation. The change management team trusted the new process, and agreed to a much simpler, more traceable change process. The collaboration removed a big source of friction for everyone, without compromising important compliance processes.

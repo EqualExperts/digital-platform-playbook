@@ -46,66 +46,28 @@ A Digital Platform provides the following benefits:
 * Increased talent attractors. Using the latest cloud technology on Digital Platform and Digital Service teams will encourage talented engineers to join your organisation.
 * More recruitment options. Concentrating specialist skills in Digital Platform teams means recruitment efforts for Digital Service teams can focus on onshore/offshore developers, testers, etc. without requiring more costly, specialised cloud skills.
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left"></th>
-      <th style="text-align:left"></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">
-        <p></p>
-        <p>
-          <img src="https://lh5.googleusercontent.com/E5qGxBAl5SA6h3g6VFs7A7A7VxLepQC6UOL5iqQIbilURi2IFVBekS9zadAzltsAXjSlrOtUGE21QXRvAXvlQxggeo5GcpV_mn3Sl2HL7ZIEj5t68obp5FYJtY0g0OVKTgT9hKq2"
-          alt/>
-        </p>
-      </td>
-      <td style="text-align:left">
-        <p>COVID-19 caused rapid, dramatic changes in society. Within weeks, the
-          UK tax authority HMRC delivered the following Digital Services on its Multichannel
-          Digital Tax Platform (MDTP), on tight deadlines and with user demand at
-          levels never seen before:</p>
-        <p></p>
-        <ul>
-          <li>Job Retention Scheme</li>
-          <li>Self-Employed Income Support Scheme</li>
-          <li>&#x201C;Eat Out To Help Out&#x201D;</li>
-          <li>Statutory Sick Pay for COVID-19</li>
-        </ul>
-        <p>Digital Service teams used the MDTP Paved Road to solve these business
-          problems from day one. The teams were deploying services into production
-          within days, resulting in early feedback from real users.</p>
-        <p></p>
-        <p>Policies changed rapidly, allowing teams to iterate on the Digital Services
-          just as quickly. Governance, best practice, and the right levels of abstraction
-          baked into MDTP meant the teams were not risking any new technology problems
-          or security concerns that might delay delivery.</p>
-        <p></p>
-        <p>Each Digital Service interacted with new and old third-party dependencies.
-          Digital Service teams leveraged existing, well-defined interfaces to old
-          systems, and the Digital Platform teams quickly added the new systems as
-          platform capabilities.</p>
-        <p></p>
-        <p>When the Digital Services were publicly launched, the Digital Service
-          teams monitored service behaviours under immense loads, and were able to
-          perform updates within minutes as the reality of user behaviours unfolded.</p>
-        <p></p>
-        <p>The authors of this playbook emphasise the importance of culture in a
-          Digital Platform ecosystem, and at HMRC, the collaboration between Digital
-          Platform and Digital Service teams was our foundation. Teams were able
-          to run at high speed, based on existing relationships and collaboration
-          tools.</p>
-        <p></p>
-        <p>A Digital Platform is never done. In the exceptional circumstances of
-          COVID-19, Digital Platform and Digital Service teams worked side by side,
-          and closer together than ever before.</p>
-        <p></p>
-        <p> <a href="https://www.linkedin.com/in/kulvinder-singh-86358a/">Kulvinder Singh</a>,
-          Technical Product Owner</p>
-      </td>
-    </tr>
-  </tbody>
-</table>
+{% tabs %}
+{% tab title="HMRC experience" %}
+COVID-19 caused rapid, dramatic changes in society. Within weeks, the UK tax authority HMRC delivered the following Digital Services on its Multichannel Digital Tax Platform \(MDTP\), on tight deadlines and with user demand at levels never seen before:
+
+* Job Retention Scheme
+* Self-Employed Income Support Scheme
+* “Eat Out To Help Out”
+* Statutory Sick Pay for COVID-19
+
+Digital Service teams used the MDTP Paved Road to solve these business problems from day one. The teams were deploying services into production within days, resulting in early feedback from real users.
+
+Policies changed rapidly, allowing teams to iterate on the Digital Services just as quickly. Governance, best practice, and the right levels of abstraction baked into MDTP meant the teams were not risking any new technology problems or security concerns that might delay delivery.
+
+Each Digital Service interacted with new and old third-party dependencies. Digital Service teams leveraged existing, well-defined interfaces to old systems, and the Digital Platform teams quickly added the new systems as platform capabilities. 
+
+When the Digital Services were publicly launched, the Digital Service teams monitored service behaviours under immense loads, and were able to perform updates within minutes as the reality of user behaviours unfolded. 
+
+The authors of this playbook emphasise the importance of culture in a Digital Platform ecosystem, and at HMRC, the collaboration between Digital Platform and Digital Service teams was our foundation. Teams were able to run at high speed, based on existing relationships and collaboration tools. 
+
+A Digital Platform is never done. In the exceptional circumstances of COVID-19, Digital Platform and Digital Service teams worked side by side, and closer together than ever before.
+
+![Kulvinder Singh](../.gitbook/assets/kulvindersingh.jpeg)
+{% endtab %}
+{% endtabs %}
 
