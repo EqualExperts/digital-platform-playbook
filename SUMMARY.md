@@ -17,4 +17,7 @@
 * [Case Studies](case-studies/README.md)
   * [HMRC](case-studies/hmrc.md)
   * [John Lewis & Partners](case-studies/john-lewis-and-partners.md)
+* [Contribute](contribute/README.md)
+  * [Contributors](contribute/contributors.md)
+* [How to contribute](how-to-contribute.md)
 
