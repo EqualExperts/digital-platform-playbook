@@ -19,5 +19,5 @@
   * [John Lewis & Partners](case-studies/john-lewis-and-partners.md)
 * [Contribute](contribute/README.md)
   * [Contributors](contribute/contributors.md)
-* [How to contribute](how-to-contribute.md)
+  * [How to contribute](contribute/how-to-contribute.md)
 

@@ -14,7 +14,7 @@ The lead authors of this playbook are:
 
 ![Alun Coppack](.gitbook/assets/aluncoppack%20%281%29.png)
 
-![Edd Grant](.gitbook/assets/eddgrant%20%281%29.png)
+![Edd Grant](.gitbook/assets/eddgrant%20%282%29.png)
 
 ![Steve Smith](.gitbook/assets/stevesmith%20%281%29.jpg)
 {% endtab %}
