@@ -6,4 +6,5 @@
   * [What is a Digital Platform](introduction/what-is-a-digital-platform.md)
   * [Benefits of a Digital Platform](introduction/benefits-of-a-digital-platform.md)
   * [Capabilities of a Digital Platform](introduction/capabilities-of-a-digital-platform.md)
+  * [When to start a Digital Platform](introduction/when-to-start-a-digital-platform.md)
 
