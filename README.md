@@ -4,7 +4,7 @@ The Equal Experts Digital Platform playbook is our thinking on why, when, and ho
 
 Our approach is based on first-hand experience building Digital Platforms, and our deep expertise in both Continuous Delivery and Operability.
 
-We’ve [open-sourced](https://github.com/EqualExperts/digital-platform-design-playbook) this playbook under a [Creative Commons license](https://creativecommons.org/licenses/by-nc/4.0/), and we encourage [contributions](https://digital-platform-design.playbook.ee/contribute) to iteratively improve our content.
+We’ve [open-sourced](https://github.com/EqualExperts/digital-platform-playbook) this playbook under a [Creative Commons license](https://creativecommons.org/licenses/by-nc/4.0/), and we encourage [contributions](https://digital-platform-design.playbook.ee/contribute) to iteratively improve our content.
 
 The lead authors of this playbook are:
 
