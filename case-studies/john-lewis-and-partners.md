@@ -2,7 +2,7 @@
 
 Equal Experts has partnered with John Lewis & Partners on the John Lewis & Partners Digital Platform \(JLDP\) since 2017. As of September 2020, JLDP has surpassed 30 teams and 100 microservices.
 
-![John Lewis &amp; Partners winning a 2019 DevOps Industry Award](https://lh4.googleusercontent.com/Bfrgf8XQ3sePHkiDFM8DjnDYOcbuntlS1XJNVHId6FAdCJTnYoMexlrOYuvv4vlWCDy2exgO_8pXqe5FcoUXD45RvM8qJiIC3FYFRu9ktnnI1-2Ws9wZAQqPCzdLeIzpnmMvPFuK)
+![John Lewis &amp; Partners winning a 2019 DevOps Industry Award](../.gitbook/assets/johnlewis.png)
 
 ### Articles
 
