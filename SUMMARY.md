@@ -12,4 +12,5 @@
   * [Bootstap](practices/bootstap.md)
   * [Architecture](practices/architecture.md)
   * [Paved Road](practices/paved-road.md)
+  * [Teams](practices/teams.md)
 
