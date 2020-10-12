@@ -24,15 +24,15 @@ A **Digital Service** is a software service designed to fulfil a product capabil
 
 Here’s a services diagram of a fictional Digital Platform in a retail organisation. It shows eight Digital Services in development within two different retail domains, as well as six platform capabilities within the Digital Platform itself.
 
-**TODO DIAGRAM**
+![Digital Services on a Digital Platform](../.gitbook/assets/digital-platform-services.png)
 
-## Bespoke
+### Bespoke
 
 A Digital Platform is bespoke. It’s something unique, built solely for the Digital Service teams in your organisation. It’s founded on custom building blocks made by your Digital Platform teams, and commodity cloud services from your public cloud. It’s about peoples, processes, and tools coming together to form platform capabilities. A public cloud can’t provide you with a Digital Platform out of the box. Nor can an off the shelf product from a vendor. 
 
 There are many advantages and opportunities that come with a public cloud as a foundation for a Digital Platform. An [on-premise Digital Platform](https://digital-platform.playbook.ee/pitfalls/on-premise-digital-platform) is a significant pitfall that should be avoided wherever possible.
 
-## Paved Road
+### Paved Road
 
 A Digital Platform is a set of [Paved Roads](https://www.oreilly.com/library/view/oscon-2017-/9781491976227/video306724.html). Each Paved Road consists of low-friction, hardened interfaces that comprise user journeys for Digital Service teams \(e.g. build a service, deploy a service, or service alerts\). Those paved user journeys are fully automated and encompass the learned best practices specific to your organisation. 
 
@@ -40,7 +40,7 @@ A Paved Road is built incrementally by Digital Platform teams. Each platform cap
 
 A Paved Road eliminates common failure modes, by automating repetitive tasks. It encourages the adoption of Continuous Delivery and Operability practices, such as constant monitoring of live traffic, and steers away from pitfalls such as [End-To-End Testing](https://digital-platform.playbook.ee/pitfalls/industralised-end-to-end-testing). It challenges Digital Service teams to rethink how they approach particular problems, and contribute enhancements and features back into the Paved Road experience. 
 
-## Bi-directional feedback
+### Bi-directional feedback
 
 A Digital Platform is primarily about the people who build it and use it. It exists to satisfy its users’ needs, through technical or non-technical means. The value of its capabilities is derived from the ability of its Digital Platform teams to talk to and learn from its Digital Service teams. It’s the responsibility of the Digital Platform teams to create an ecosystem of bi-directional feedback loops. User feedback allows Digital Platform teams to better understand which technology building block or organisational process needs to be improved, and industrialised so that all teams can benefit. 
 
