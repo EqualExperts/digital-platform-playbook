@@ -20,7 +20,7 @@ For all teams, delivery throughput can be measured using the [Accelerate](https:
 
 These measures can be visualised as information indicators in order to show emerging trends and identify teams in need of assistance. For more on this, see [Measuring Continuous Delivery](https://leanpub.com/measuringcontinuousdelivery) by Steve Smith. Below is an example of a team information indicator for delivery throughput.
 
-**TODO DIAGRAM**
+![A deployment indicator](../.gitbook/assets/deployment-indicator.png)
 
 Measures of user satisfaction will vary across Digital Platform and Digital Service teams. Digital Platform teams that focus on conversations, surveys, and capability analytics will better understand Digital Service teams’ experiences. Digital Service teams can implement customer satisfaction metrics using Net Promoter Score \(NPS\) and customer journey analytics.
 
