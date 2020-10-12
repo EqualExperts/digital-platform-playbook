@@ -1,8 +1,4 @@
-# Case Studies
-
-These are some of the Digital Platforms we’ve worked on with our clients.
-
-## HMRC
+# HMRC
 
 Equal Experts has worked with HMRC on the Multichannel Digital Tax Platform \(MDTP\) for over 6 years. At its peak, MDTP has had over 60 teams and 600 microservices.
 

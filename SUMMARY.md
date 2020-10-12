@@ -14,5 +14,6 @@
   * [Paved Road](practices/paved-road.md)
   * [Teams](practices/teams.md)
 * [Pitfalls](pitfalls.md)
-* [Case Studies](case-studies.md)
+* [Case Studies](case-studies/README.md)
+  * [HMRC](case-studies/hmrc.md)
 
