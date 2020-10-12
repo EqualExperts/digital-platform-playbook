@@ -6,12 +6,10 @@ Our approach is based on first-hand experience building Digital Platforms, and o
 
 We’ve [open-sourced](https://github.com/EqualExperts/digital-platform-design-playbook) this playbook under a [Creative Commons license](https://creativecommons.org/licenses/by-nc/4.0/), and we encourage [contributions](https://digital-platform-design.playbook.ee/contribute) to iteratively improve our content.
 
-### Lead authors
-
 The lead authors of this playbook are:
 
 {% tabs %}
-{% tab title="" %}
+{% tab title="Lead Authors" %}
 ![Adam Hansrod](.gitbook/assets/adamhansrod%20%281%29.png)
 
 ![Alun Coppack](.gitbook/assets/aluncoppack%20%281%29.png)
