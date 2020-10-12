@@ -28,6 +28,8 @@ This playbook was produced by a number of people within the[ Equal Experts netwo
 
 ![Edd Grant](../.gitbook/assets/eddgrant%20%281%29.png)
 
+![Isabell Britsch](../.gitbook/assets/isabellbritsch.jpeg)
+
 ![Jon Barber](../.gitbook/assets/jonbarber.png)
 
 ![Jon Dickinson](../.gitbook/assets/jondickinson.png)
