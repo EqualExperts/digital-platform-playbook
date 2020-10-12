@@ -28,58 +28,21 @@ Cognitive load on Digital Service teams stems from user journey complexity, caus
 
 Digital Platform teams need to continuously remove complexity from the Digital Service teams’ user journeys. The goal is to make Continuous Delivery and Operability adoption as easy as possible. One example is gradually standardising a deployment pipeline for building, deploying, and testing a release candidate that automatically runs on code commits. This also applies to the Digital Platform teams themselves.
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left"></th>
-      <th style="text-align:left"></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">
-        <p></p>
-        <p>
-          <img src="https://lh4.googleusercontent.com/tv5Ek_hN7UXGnGnfMvqM6AurUnpDD5G5wsoOViY-Ll0ysafuPf879RsE_xiDRZp83m69ui5a1TMQoSM_tay99ysQUtA07xX1RP-Yvu44a_ZSTrdg86jHvuYKIo8bghwDUJ7vpJ6h"
-          alt/>
-        </p>
-      </td>
-      <td style="text-align:left">
-        <p>Collaboration with Digital Service teams was key to the success of the
-          Multichannel Digital Tax Platform (MDTP) at HMRC. At its peak, we had eight
-          Digital Platform teams in London, and 50+ Digital Service teams in five
-          delivery centres across the country.</p>
-        <p></p>
-        <p>We had to strike a balance between listening to the Digital Service teams&#x2019;
-          needs, understanding how many Digital Services would benefit from a new
-          platform feature, and occasionally guiding the teams to a different solution
-          if MDTP couldn&#x2019;t accommodate them.</p>
-        <p></p>
-        <p>We used a range of techniques:</p>
-        <p></p>
-        <ul>
-          <li>We ran regular feedback surveys. We asked Digital Service teams what they
-            thought of MDTP and of their relationship with us as the Digital Platform
-            teams. The first few were uncomfortable for us to read, but as we responded
-            and improved, it got easier.</li>
-          <li>We travelled out to the delivery centres regularly. This allowed us to
-            shift into being allies rather than just a group of names on Slack.</li>
-          <li>We listened when Digital Service teams had good ideas on what we needed
-            on MDTP. One Digital Service team created a one-click button to create
-            a standard HMRC Digital Service from scratch. We helped them develop it
-            further, then rolled it out as part of MDTP.</li>
-          <li>We wrote blog posts advertising new MDTP capabilities, and guidance on
-            how to use the new features. This helped to keep people in the loop about
-            new features coming down the line.</li>
-          <li>We trialled new MDTP features with key Digital Service teams in different
-            delivery centres. At one point, we had Digital Service teams approaching
-            us and asking to be part of the trials. We found that people had started
-            to feel some ownership of MDTP, along with us</li>
-        </ul>
-        <p> <a href="https://www.linkedin.com/in/rebecca-stafford-a83184a/">Beccy Stafford</a>,
-          Technical Delivery Manager</p>
-      </td>
-    </tr>
-  </tbody>
-</table>
+{% tabs %}
+{% tab title="HMRC experience" %}
+Collaboration with Digital Service teams was key to the success of the Multichannel Digital Tax Platform \(MDTP\) at HMRC. At its peak, we had eight Digital Platform teams in London, and 50+ Digital Service teams in five delivery centres across the country. 
+
+We had to strike a balance between listening to the Digital Service teams’ needs, understanding how many Digital Services would benefit from a new platform feature, and occasionally guiding the teams to a different solution if MDTP couldn’t accommodate them. 
+
+We used a range of techniques: 
+
+* We ran regular feedback surveys. We asked Digital Service teams what they thought of MDTP and of their relationship with us as the Digital Platform teams. The first few were uncomfortable for us to read, but as we responded and improved, it got easier.
+* We travelled out to the delivery centres regularly. This allowed us to shift into being allies rather than just a group of names on Slack.
+* We listened when Digital Service teams had good ideas on what we needed on MDTP. One Digital Service team created a one-click button to create a standard HMRC Digital Service from scratch. We helped them develop it further, then rolled it out as part of MDTP.
+* We wrote blog posts advertising new MDTP capabilities, and guidance on how to use the new features. This helped to keep people in the loop about new features coming down the line.
+* We trialled new MDTP features with key Digital Service teams in different delivery centres. At one point, we had Digital Service teams approaching us and asking to be part of the trials. We found that people had started to feel some ownership of MDTP, along with us
+
+![Beccy Stafford](.gitbook/assets/beccystafford.png)
+{% endtab %}
+{% endtabs %}
 

@@ -42,51 +42,22 @@ A Digital Platform has multi-year funding linked to a recognition that at least 
 
 If there is zero potential for five or more Digital Service teams, we don’t believe a Digital Platform is the right approach. You won’t achieve the economies of scale to validate the multi-year funding. A better approach would be to invest funding and resources directly into your handful of teams, ensuring they can build and operate their services.
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left"></th>
-      <th style="text-align:left"></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">
-        <p></p>
-        <p>
-          <img src="https://lh4.googleusercontent.com/fmtSlQF3H8-x3ufYIUft8Y7xYwiOdSFcqS8hR9qKXLlQPTo7rjEOdEW4B1XANjf0hwX750wOJQYxtJiTz8y5KYoV377ZF_eYjPm3vRQiu4bzRgn1hyQQmnE5eBiPNnvbfb9Ncsoq"
-          alt/>
-        </p>
-      </td>
-      <td style="text-align:left">
-        <p>O2 Priority is a popular customer loyalty service, and in 2016, it lacked
-          the operational capacity to meet demand. I joined the team with the primary
-          goal of building a new scalable platform. We used many of the practices
-          mentioned in this playbook, but it wasn&#x2019;t a full-blown Digital Platform
-          as described because we only had one service team.</p>
-        <p></p>
-        <p>Work happened in phases, including automated infrastructure with observability
-          built in, and automated deployment pipelines. These capabilities set the
-          foundation for seamless migration of O2 Priority. The service team went
-          from a deployment frequency of fortnightly to daily, and from an MTTR of
-          days to three hours.</p>
-        <p></p>
-        <p>Looking back, I believe our success was due to:</p>
-        <p></p>
-        <ul>
-          <li>commitment and support from our primary stakeholders</li>
-          <li>autonomy to build and run the scalable platform using the best tools and
-            technologies available</li>
-          <li>feedback from the service team and building to their requirements</li>
-          <li>investing in observability and telemetry dashboards</li>
-        </ul>
-        <p>The benefit to O2 was significant &#x2013; they increased their ability
-          to create and run loyalty campaigns better targeted to their customers.&#x201D;</p>
-        <p></p>
-        <p> <a href="https://www.linkedin.com/in/ogonnaiwunze/">Ogonna Iwunze</a>,
-          Operability Engineer</p>
-      </td>
-    </tr>
-  </tbody>
-</table>
+{% tabs %}
+{% tab title="O2 Priority experience" %}
+O2 Priority is a popular customer loyalty service, and in 2016, it lacked the operational capacity to meet demand. I joined the team with the primary goal of building a new scalable platform. We used many of the practices mentioned in this playbook, but it wasn’t a full-blown Digital Platform as described because we only had one service team. 
+
+Work happened in phases, including automated infrastructure with observability built in, and automated deployment pipelines. These capabilities set the foundation for seamless migration of O2 Priority. The service team went from a deployment frequency of fortnightly to daily, and from an MTTR of days to three hours. 
+
+Looking back, I believe our success was due to:
+
+* commitment and support from our primary stakeholders
+* autonomy to build and run the scalable platform using the best tools and technologies available 
+* feedback from the service team and building to their requirements
+* investing in observability and telemetry dashboards
+
+The benefit to O2 was significant – they increased their ability to create and run loyalty campaigns better targeted to their customers.
+
+![Ogonna Iwunze](../.gitbook/assets/ogonnaiwunze.jpg)
+{% endtab %}
+{% endtabs %}
 
