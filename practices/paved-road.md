@@ -39,7 +39,7 @@ It may take time for Digital Service teams to understand the purpose of intentio
 
 Inevitably, some enhancements to Digital Platform capabilities will require corresponding updates in at least one Digital Service.
 
-Update frequency will depend on the quality of those capabilities, and the amount of central management in your [Paved Road](https://digital-platform-design.playbook.ee/practices/pave-the-pain-points). The onus is on Digital Platform teams to build high quality platform capabilities that rarely require Digital Service teams to make changes themselves. Low-quality platform capabilities and little central management could mean Digital Service teams have to perform regular updates.
+Update frequency will depend on the quality of those capabilities, and the amount of central management in your [Paved Road](https://digital-platform.playbook.ee/practices/pave-the-pain-points). The onus is on Digital Platform teams to build high quality platform capabilities that rarely require Digital Service teams to make changes themselves. Low-quality platform capabilities and little central management could mean Digital Service teams have to perform regular updates.
 
 Digital Services updates can be designed as either mandatory migrations, or optional upgrades. Mandatory migrations on short timelines can frustrate Digital Service teams, who will have their own delivery timelines to satisfy. Bi-directional feedback loops and trusted relationships can be sorely tested.
 
@@ -47,7 +47,7 @@ We’ve learned that optional upgrades with longer timelines are less painful fo
 
 ### Enable You Build It You Run It
 
-Our [accelerate Continuous Delivery and Operability principle](https://digital-platform-design.playbook.ee/principles#accelerate-continuous-delivery-and-operability) means curated processes on a Digital Platform are clearly opinionated in favour of Continuous Delivery and Operability for all Digital Service teams. 
+Our [accelerate Continuous Delivery and Operability principle](https://digital-platform.playbook.ee/principles#accelerate-continuous-delivery-and-operability) means curated processes on a Digital Platform are clearly opinionated in favour of Continuous Delivery and Operability for all Digital Service teams. 
 
 The production support method of You Build It, You Run It refers to developers supporting their own production services. You Build It You Run It unlocks weekly or more frequent deployments for Digital Service teams, as it eliminates any operational handoffs. It also incentivises Digital Service teams to balance their time between product and operational features. The net result is more frequent production deployments, and more reliable live services. 
 
