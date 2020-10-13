@@ -9,7 +9,7 @@
   * [When to start a Digital Platform](introduction/when-to-start-a-digital-platform.md)
 * [Principles](principles.md)
 * [Practices](practices/README.md)
-  * [Bootstap](practices/bootstap.md)
+  * [Bootstrap](practices/bootstrap.md)
   * [Architecture](practices/architecture.md)
   * [Paved Road](practices/paved-road.md)
   * [Teams](practices/teams.md)
