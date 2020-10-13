@@ -39,7 +39,7 @@ It may take time for Digital Service teams to understand the purpose of intentio
 
 Inevitably, some enhancements to Digital Platform capabilities will require corresponding updates in at least one Digital Service.
 
-Update frequency will depend on the quality of those capabilities, and the amount of central management in your [Paved Road](https://digital-platform.playbook.ee/practices/pave-the-pain-points). The onus is on Digital Platform teams to build high quality platform capabilities that rarely require Digital Service teams to make changes themselves. Low-quality platform capabilities and little central management could mean Digital Service teams have to perform regular updates.
+Update frequency will depend on the quality of those capabilities, and the amount of central management in your [Paved Road](https://digital-platform.playbook.ee/practices/paved-road#pave-the-pain-points). The onus is on Digital Platform teams to build high quality platform capabilities that rarely require Digital Service teams to make changes themselves. Low-quality platform capabilities and little central management could mean Digital Service teams have to perform regular updates.
 
 Digital Services updates can be designed as either mandatory migrations, or optional upgrades. Mandatory migrations on short timelines can frustrate Digital Service teams, who will have their own delivery timelines to satisfy. Bi-directional feedback loops and trusted relationships can be sorely tested.
 
