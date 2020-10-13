@@ -1,4 +1,4 @@
-# Bootstap
+# Bootstrap
 
 ### Share a vision
 
