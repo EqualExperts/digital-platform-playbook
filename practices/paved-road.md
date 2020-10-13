@@ -30,7 +30,7 @@ It’s likely a majority of Digital Service team members won’t have worked on 
 
 Recommendations we’ve incorporated into Digital Platforms include the following:
 
-* Don’t install a repository for proprietary libraries. This discourages the sharing of internal libraries between teams, and avoids the [proprietary library hell pitfall](https://digital-platform-design.playbooks.ee/pitfalls/proprietary-library-hell)
+* Don’t install a repository for proprietary libraries. This discourages the sharing of internal libraries between teams, and avoids the [proprietary library hell pitfall](https://digital-platform.playbook.ee/pitfalls#proprietary-library-hell)
 * Don’t permit automated end-to-end tests in a test environment. This discourages reams of functional end-to-end tests, and avoids the [Industrialised End-To-End Testing pitfall](https://digital-platform-design.playbooks.ee/pitfalls/industralised-end-to-end-testing)
 
 It may take time for Digital Service teams to understand the purpose of intentional friction. It’s important for Digital Platform teams to engage with Digital Service teams, so they understand the purpose of intentional friction and can offer feedback.
