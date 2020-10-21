@@ -1,7 +1,5 @@
 # Capabilities of a Digital Platform
 
-
-
 A Digital Platform capability combines people, processes, and/or tools. It's provided by a Digital Platform team, to accelerate Digital Service teams.
 
 A capability such as “Deploy A Service” should be self-service. A Digital Service team must be able to provision, configure, and manage a capability themselves. It’ll encourage your Digital Service teams to be accountable for outcomes associated with their Digital Service. Digital Platform teams can provide sensible defaults out of the box, which Digital Service teams can modify themselves when appropriate.
@@ -97,6 +95,9 @@ The most common Digital Platform capabilities and the corresponding features tha
 * Dashboard of all recent incidents with per-service and per-change request filters.
 * Deployment indicators for Digital Services and their owning teams.
 * Digital Service reliability data, showing availability % and time to restore. 
+
+
+![A Wireframe of a Service Page in a Service Catalogue, showcasing information on the service's microservices, SLO's and delivery indicators](../.gitbook/assets/service-catalogue-service-page-wireframe.png)
 
 ### Admin
 
