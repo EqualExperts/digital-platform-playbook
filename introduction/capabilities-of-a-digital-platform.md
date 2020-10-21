@@ -39,6 +39,7 @@ Reducing the barrier to creating a service (that is preset with sensible default
 ### Test a service
 
 * Stubbed dependencies and test executors, for automated functional tests.
+* Hosted contract testing broker available, or examples of how to setup contract testing in a pipeline
 * Predefined load profiles and test executors, for automated load tests.
 * Predefined user journeys and test executors, for post-deployment smoke tests.
 * Predefined fault injection scenarios and test executors, for Chaos Days and automated chaos testing.
@@ -69,6 +70,7 @@ Reducing the barrier to creating a service (that is preset with sensible default
 ### Service monitoring
 
 * Metrics pipeline from service runtime to metrics storage.
+* Service request tracing
 * Curated monitoring dashboards showing the [Four Golden Signals](https://landing.google.com/sre/sre-book/chapters/monitoring-distributed-systems/#xref_monitoring_golden-signals), availability targets, and deployment targets.
 
 {% hint style='tip' %}
