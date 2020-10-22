@@ -20,9 +20,7 @@ The most common Digital Platform capabilities and the corresponding features tha
 * Runbook set up in version control, with code repository locations.
 * Incident reviews template set up in version control, with team member names and code repository locations.
 
-{% hint style='tip' %}
 Reducing the barrier to creating a service (that is preset with sensible default values) enables service teams to focus on delivering value for their users rather than working to matching operability parity with the existing services.
-{% endhint %}
 
 ### Build a service
 
@@ -73,12 +71,10 @@ Reducing the barrier to creating a service (that is preset with sensible default
 * Service request tracing
 * Curated monitoring dashboards showing the [Four Golden Signals](https://landing.google.com/sre/sre-book/chapters/monitoring-distributed-systems/#xref_monitoring_golden-signals), availability targets, and deployment targets.
 
-{% hint style='tip' %}
 Implementing standardised-but-extendable metrics, dashboards, and alerts for all the services on a platform provides several benefits:
 * reduce the cost of context switching for service team members when working across multiple services
 * greater effiency as not every team has to re-invent the wheel to monitor their service
 * teams get a basic level of monitoring for free, and can then be encouraged to further customise their service's dashboards to provide richer information
-{% endhint %}
 
 ### Service alerting 
 
@@ -98,9 +94,7 @@ Implementing standardised-but-extendable metrics, dashboards, and alerts for all
 * Consistent post-incident review process including live telemetry data.
 * One click amendments to scheduled on-call rota for team members.
 
-{% hint style='tip' %}
 Digital Platform Teams aren't the owner of an organisation's incident response process, but they will often have to automate and engineer solutions to help the incident response process achieve better results for their both service team's and their own incidents.
-{% endhint %}
 
 ### Services Catalogue
 
@@ -113,11 +107,9 @@ Digital Platform Teams aren't the owner of an organisation's incident response p
 * Deployment indicators for Digital Services and their owning teams.
 * Digital Service reliability data, showing availability % and time to restore. 
 
-{% hint style='tip' %}
-An example of an Services Catalogue is [Spotify's Backstage](https://backstage.io/)
-{% endhint %}
-
 ![A Wireframe of a Service Page in a Service Catalogue, showcasing information on the service's microservices, SLO's and delivery indicators](../.gitbook/assets/service-catalogue-service-page-wireframe.png)
+
+An example of a Services Catalogue is [Spotify's Backstage](https://backstage.io/)
 
 ### Admin
 
