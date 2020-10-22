@@ -27,6 +27,8 @@ Scale Digital Platform teams based on platform capabilities and the amount of bi
 
 For example, a Digital Platform team with a product manager, a delivery lead, a technical analyst, and three engineers. As the number of Digital Services grows, an architect and two more engineers are added. At that point, the delivery lead decides the teams need to split. The product manager decides cloud infrastructure and telemetry are the priorities for the next three months, so those are the two new Digital Platform teams.
 
+![Service Team growth driving growth and reorganisation in the platform team around capabilities provided to the Service Teams](../.gitbook/assets/expanding-platform-teams.png)
+
 ### Whole Digital Platform funding
 
 Funding for the Digital Platform needs to be continuous, multi-year, and come from a single budget holder accountable for Digital Platform success. 
