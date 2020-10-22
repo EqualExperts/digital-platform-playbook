@@ -19,7 +19,7 @@ The costs associated with managing an on-premise Digital Platform can be exponen
 
 We’ve seen well-intentioned organisations start a Digital Platform without a Digital Service team as a first user. A Digital Platform team working in a vacuum can spend weeks or months on platform capabilities with no stated needs from Digital Service teams. As a result, future Digital Service teams have to go their own way, without the economies of scale produced by a Digital Platform built in close consultation with Digital Service teams.
 
-A Digital Platform team that lacks a Digital Service team can’t form any bi-directional feedback loops. It can’t understand the needs of its users, can’t set a direction for platform capabilities, and can’t validate the platform features that it builds. It’s just building automated infrastructure. This is why we believe [at least one Digital Service team at the outset](https://www.digital-platform.playbooks.ee/when-to-start-a-digital-platform) as part of the startup criteria for a Digital Platform.  
+A Digital Platform team that lacks a Digital Service team can’t form any bi-directional feedback loops. It can’t understand the needs of its users, can’t set a direction for platform capabilities, and can’t validate the platform features that it builds. It’s just building automated infrastructure. This is why we believe [at least one Digital Service team at the outset](https://digital-platform.playbook.ee/introduction/when-to-start-a-digital-platform) as part of the startup criteria for a Digital Platform.  
 
 ### Multi-instance Digital Platform
 
