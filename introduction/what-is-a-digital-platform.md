@@ -30,7 +30,7 @@ Here’s a services diagram of a fictional Digital Platform in a retail organisa
 
 A Digital Platform is bespoke. It’s something unique, built solely for the Digital Service teams in your organisation. It’s founded on custom building blocks made by your Digital Platform teams, and commodity cloud services from your public cloud. It’s about peoples, processes, and tools coming together to form platform capabilities. A public cloud can’t provide you with a Digital Platform out of the box. Nor can an off the shelf product from a vendor. 
 
-There are many advantages and opportunities that come with a public cloud as a foundation for a Digital Platform. An [on-premise Digital Platform](https://digital-platform.playbook.ee/pitfalls/on-premise-digital-platform) is a significant pitfall that should be avoided wherever possible.
+There are many advantages and opportunities that come with a public cloud as a foundation for a Digital Platform. An [on-premise Digital Platform](https://digital-platform.playbook.ee/pitfalls#on-premise-digital-platform) is a significant pitfall that should be avoided wherever possible.
 
 ### Paved Road
 
