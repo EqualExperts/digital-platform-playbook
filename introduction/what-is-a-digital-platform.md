@@ -38,7 +38,7 @@ A Digital Platform is a set of [Paved Roads](https://www.oreilly.com/library/vie
 
 A Paved Road is built incrementally by Digital Platform teams. Each platform capability is delivered in small increments, and adjustments are made based on user feedback. Over time, as each platform capability becomes more opinionated, the Paved Road becomes wider and longer. [Enabling constraints](https://theitriskmanager.com/2018/12/09/constraints-that-enable/) are used to encourage frequent production deployments and high standards of reliability for long-lived Digital Services.
 
-A Paved Road eliminates common failure modes, by automating repetitive tasks. It encourages the adoption of Continuous Delivery and Operability practices, such as constant monitoring of live traffic, and steers away from pitfalls such as [End-To-End Testing](https://digital-platform.playbook.ee/pitfalls/industralised-end-to-end-testing). It challenges Digital Service teams to rethink how they approach particular problems, and contribute enhancements and features back into the Paved Road experience. 
+A Paved Road eliminates common failure modes, by automating repetitive tasks. It encourages the adoption of Continuous Delivery and Operability practices, such as constant monitoring of live traffic, and steers away from pitfalls such as [End-To-End Testing](https://digital-platform.playbook.ee/pitfalls#industrialised-end-to-end-testing). It challenges Digital Service teams to rethink how they approach particular problems, and contribute enhancements and features back into the Paved Road experience. 
 
 ### Bi-directional feedback
 
