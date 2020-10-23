@@ -26,7 +26,7 @@ A Digital Platform starts with a minimum of one Digital Platform team and one Di
 
 Your first Digital Service team needs to have completed its [inception](https://inception.playbook.ee/) phase. This ensures the Digital Service workload is sufficiently well understood to begin construction of the Digital Platform. Otherwise, the delivery of new platform features will be slowed down, due to the rework needed to focus on a different workload type. 
 
-A Digital Platform team that starts out without a Digital Service team will fall into the [Premature Digital Platform Team pitfall](https://digital-platform.playbook.ee/pitfalls/premature-digital-platform-team).
+A Digital Platform team that starts out without a Digital Service team will fall into the [Premature Digital Platform Team pitfall](https://digital-platform.playbook.ee/pitfalls#premature-digital-platform-team).
 
 ### Empowered Teams
 
