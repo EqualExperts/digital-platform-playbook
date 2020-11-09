@@ -44,14 +44,14 @@ If there is zero potential for five or more Digital Service teams, we don’t be
 
 {% tabs %}
 {% tab title="O2 Priority experience" %}
-O2 Priority is a popular customer loyalty service, and in 2016, it lacked the operational capacity to meet demand. I joined the team with the primary goal of building a new scalable platform. We used many of the practices mentioned in this playbook, but it wasn’t a full-blown Digital Platform as described because we only had one service team. 
+O2 Priority is a popular customer loyalty service, and in 2016, it lacked the operational capacity to meet demand. I joined the team with the primary goal of building a new scalable service. We used many of the practices mentioned in this playbook, but we didn't need a full-blown Digital Platform because we only had a single service team. 
 
 Work happened in phases, including automated infrastructure with observability built in, and automated deployment pipelines. These capabilities set the foundation for seamless migration of O2 Priority. The service team went from a deployment frequency of fortnightly to daily, and from an MTTR of days to three hours. 
 
 Looking back, I believe our success was due to:
 
 * commitment and support from our primary stakeholders
-* autonomy to build and run the scalable platform using the best tools and technologies available 
+* autonomy to build and run the scalable service using the best tools and technologies available 
 * feedback from the service team and building to their requirements
 * investing in observability and telemetry dashboards
 
