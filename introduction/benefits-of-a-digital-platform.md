@@ -23,11 +23,11 @@ A Digital Platform provides the following benefits:
 
 ### Improved security
 
-* Rapid adoption of [security testing tools and techniques](https://secure-delivery.playbook.ee/). The [paved road](/introduction/what-is-a-digital-platform#paved-road) eases and promotes adoption of security tools, helping Digital Service teams identify and fix security issues before they reach production.
+* Rapid adoption of [security testing tools and techniques](https://secure-delivery.playbook.ee/). The [paved road](https://digital-platform.playbook.ee/introduction/what-is-a-digital-platform#paved-road) eases and promotes adoption of security tools, helping Digital Service teams identify and fix security issues before they reach production.
 * Improved security assurance. Standardised tooling allows security assurance to be embedded into the platform, allowing security policies to be defined in code and validated against infrastructure and applications both prior to deployment and continuously at runtime.
 * Reduced security engineering overhead. Common security activities (e.g. continuous vulnerability scanning) and features (e.g. secrets management) are provided as platform features, allowing Digital Service teams to focus on the customer and their specific domain.
 * Improved security operations. Centralised telemetry supports security monitoring and alerting within the Digital Plaform, providing first responders access to all relevant information when managing security incidents.
-* Improved security governance. The [services catalogue](/introduction/capabilities-of-a-digital-platform#services-catalogue) increases visibility and promotes security as a first-class citizen of the Digital Platform. This enables Digital Service teams to be accountable for the security of their service, while providing oversight to security governance teams.
+* Improved security governance. The [services catalogue](https://digital-platform.playbook.ee/introduction/capabilities-of-a-digital-platform#services-catalogue) increases visibility and promotes security as a first-class citizen of the Digital Platform. This enables Digital Service teams to be accountable for the security of their service, while providing oversight to security governance teams.
 
 ### Improved ways of working
 
