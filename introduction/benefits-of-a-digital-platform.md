@@ -2,52 +2,52 @@
 
 A Digital Platform provides the following benefits:
 
-### Faster innovation
+## Faster innovation
 
 * Faster time to launch. Automating and abstracting cloud setup and simplifying governance processes means a new Digital Service can be launched to customers within days.
 * Frequent updates. Creating an optimal deployment pipeline allows customer experiments in a Digital Service to be updated on at least a daily basis.
 * Increased focus on business problems. Institutionalising new policies that cross-cut departments means uncoordinated and/or duplicated processes can be eliminated, and people can focus on higher value work.
 * More business model opportunities. Friction-free, rapid launches of Digital Services allow an organisation to separate its differentiating business functions from utilities and to quickly trial different business models in new marketplaces.
 
-### Higher quality
+## Higher quality
 
 * Fewer environmental issues. Automating configuration and infrastructure lowers the potential for environment-specific problems.
 * More deterministic test results. Centralising automated test executors reduces opportunities for nondeterminism in test suites.
 * Faster rollback. Creating an effective rollback system with health checks means deployment failures can be fixed quickly.
 
-### Increased reliability
+## Increased reliability
 
 * More operable services. Providing logging, monitoring, and alerting out of the box increases the operability of Digital Services, and helps users to quickly discern abnormal operating conditions.
 * Graceful degradation. Implementing circuit breakers and bulkheads on the wire for third-party systems allows Digital Services to gracefully degrade on failure.
 * Improved business continuity. Automating the entire platform infrastructure in the cloud creates new business continuity options.
 
-### Improved security
+## Improved security
 
 * Rapid adoption of [security testing tools and techniques](https://secure-delivery.playbook.ee/). The [paved road](https://digital-platform.playbook.ee/introduction/what-is-a-digital-platform#paved-road) eases and promotes adoption of security tools, helping Digital Service teams identify and fix security issues before they reach production.
 * Improved security assurance. Standardised tooling allows security assurance to be embedded into the platform, allowing security policies to be defined in code and validated against infrastructure and applications both prior to deployment and continuously at runtime.
-* Reduced security engineering overhead. Common security activities (e.g. continuous vulnerability scanning) and features (e.g. secrets management) are provided as platform features, allowing Digital Service teams to focus on the customer and their specific domain.
-* Improved security operations. Centralised telemetry supports security monitoring and alerting within the Digital Plaform, providing first responders access to all relevant information when managing security incidents.
+* Reduced security engineering overhead. Common security activities \(e.g. continuous vulnerability scanning\) and features \(e.g. secrets management\) are provided as platform features, allowing Digital Service teams to focus on the customer and their specific domain.
+* Improved security operations. Centralised telemetry supports security monitoring and alerting within the Digital Platform, providing first responders access to all relevant information when managing security incidents.
 * Improved security governance. The [services catalogue](https://digital-platform.playbook.ee/introduction/capabilities-of-a-digital-platform#services-catalogue) increases visibility and promotes security as a first-class citizen of the Digital Platform. This enables Digital Service teams to be accountable for the security of their service, while providing oversight to security governance teams.
 
-### Improved ways of working
+## Improved ways of working
 
 * Policy experimentation. Cutting across departments means new policies can be forged in [inceptions](https://inception.playbook.ee/), [Chaos Day testing](https://chaos-day.playbook.ee/), [secure delivery](https://secure-delivery.playbook.ee/), and more. 
 * Drive new practices. Creating [enabling constraints](https://theitriskmanager.com/2018/12/09/constraints-that-enable/) in user journeys can drive the adoption of new practices, such as restricting shared libraries to encourage decoupled domains for Digital Services.
 * Simpler processes. Establishing meaningful Service Level Objectives with an automated alerting toolchain can make You Build It You Run It production support easier to set up.
 
-### Advanced technology
+## Advanced technology
 
 * Use the best available technologies. Standardising cloud building blocks means the best available technology stack can be provided to Digital Service teams.
 * Traffic optimisations. Surfacing self-service, elastic infrastructure means Digital Service teams can easily optimise for fluctuating traffic patterns without significant costs.
 * Zero downtime updates. Consolidating service runtimes means functional updates can be continually applied with zero downtime for Digital Services.
 
-### Reduced costs
+## Reduced costs
 
 * Economies of scale. Centralising the Digital Service lifecycle means economies of scale can be achieved, as more Digital Service teams can be added without incurring repeat buy/build costs.
 * Easier cost management. Centralising self-service touchpoints for automated infrastructure allows infrastructure costs to be visualised and closely managed. 
 * Positioning security specialists in the Digital Platform teams means security threats can be more easily identified and Digital Services can quickly receive security updates. 
 
-### Happier, more productive people
+## Happier, more productive people
 
 * Lower cognitive load. Abstracting away the Digital Service lifecycle reduces your staff’s cognitive load, reducing lead times to less than 24 hours for a new joiner, a mover between teams, a leaver, or a new Digital Service team.
 * Easier to identify talent needs. Splitting business domains into Digital Services helps to highlight which domains are true business differentiators and require the most talented engineers.
@@ -67,11 +67,11 @@ Digital Service teams used the MDTP Paved Road to solve these business problems 
 
 Policies changed rapidly, allowing teams to iterate on the Digital Services just as quickly. Governance, best practice, and the right levels of abstraction baked into MDTP meant the teams were not risking any new technology problems or security concerns that might delay delivery.
 
-Each Digital Service interacted with new and old third-party dependencies. Digital Service teams leveraged existing, well-defined interfaces to old systems, and the Digital Platform teams quickly added the new systems as platform capabilities. 
+Each Digital Service interacted with new and old third-party dependencies. Digital Service teams leveraged existing, well-defined interfaces to old systems, and the Digital Platform teams quickly added the new systems as platform capabilities.
 
-When the Digital Services were publicly launched, the Digital Service teams monitored service behaviours under immense loads, and were able to perform updates within minutes as the reality of user behaviours unfolded. 
+When the Digital Services were publicly launched, the Digital Service teams monitored service behaviours under immense loads, and were able to perform updates within minutes as the reality of user behaviours unfolded.
 
-The authors of this playbook emphasise the importance of culture in a Digital Platform ecosystem, and at HMRC, the collaboration between Digital Platform and Digital Service teams was our foundation. Teams were able to run at high speed, based on existing relationships and collaboration tools. 
+The authors of this playbook emphasise the importance of culture in a Digital Platform ecosystem, and at HMRC, the collaboration between Digital Platform and Digital Service teams was our foundation. Teams were able to run at high speed, based on existing relationships and collaboration tools.
 
 A Digital Platform is never done. In the exceptional circumstances of COVID-19, Digital Platform and Digital Service teams worked side by side, and closer together than ever before.
 
