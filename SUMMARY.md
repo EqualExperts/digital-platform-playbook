@@ -18,7 +18,7 @@
   * [HMRC](case-studies/hmrc.md)
   * [John Lewis & Partners](case-studies/john-lewis-and-partners.md)
 * [Talks](talks/README.md)
-  * [HMRC](talks/how-digital-platforms-fail.md)
+  * [How Digital Platforms Fail](talks/how-digital-platforms-fail.md)
 * [Contribute](contribute/README.md)
   * [Contributors](contribute/contributors.md)
   * [How to contribute](contribute/how-to-contribute.md)
