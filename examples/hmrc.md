@@ -4,7 +4,7 @@ Equal Experts has worked with HMRC on the Multichannel Digital Tax Platform \(MD
 
 ![HMRC winning Digital Project of the Year at the 2015 UK IT Industry Awards](../.gitbook/assets/hmrc.png)
 
-### Videos
+## Videos
 
 Antony Collard from HMRC and Lyndsay Prewer from Equal Experts talked about [Making Tax Digital](https://www.youtube.com/watch?v=-gcvUM5VhEk) at DevOps Enterprise Summit 2018.
 
@@ -18,9 +18,7 @@ Mike Potter from HMRC and Alun Coppack from Equal Experts talked about [Platform
 
 {% embed url="https://www.youtube.com/watch?v=mVRfTzzumG0" %}
 
- 
-
-### Articles
+## Articles
 
 Some articles about HMRC: 
 
