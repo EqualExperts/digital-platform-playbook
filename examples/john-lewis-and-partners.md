@@ -4,9 +4,9 @@ Equal Experts has partnered with John Lewis & Partners on the John Lewis & Partn
 
 ![John Lewis &amp; Partners winning a 2019 DevOps Industry Award](../.gitbook/assets/johnlewis.png)
 
-### Articles
+## Articles
 
-Some articles about JLDP: 
+Some articles about JLDP:
 
 * [Equal Experts engineer chaos at John Lewis & Partners](https://www.equalexperts.com/blog/our-thinking/equal-experts-engineer-chaos-at-john-lewis-partners/) by Lyndsay Prewer from Equal Experts.
 * [Our Award Winning John Lewis Digital Platform](https://medium.com/john-lewis-software-engineering/our-award-winning-john-lewis-digital-platform-2d093e03d542) by Rob Hornby from John Lewis & Partners .

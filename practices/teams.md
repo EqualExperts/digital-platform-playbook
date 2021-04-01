@@ -1,6 +1,6 @@
 # Teams
 
-### Prime Digital Platform teams for success
+## Prime Digital Platform teams for success
 
 It’s important that Digital Platform teams are set up for success like any Digital Service team. We recommend the following roles for a new Digital Platform team:
 
@@ -11,9 +11,9 @@ It’s important that Digital Platform teams are set up for success like any Dig
 
 This is a recommendation, not a rule. You might need to start out with a smaller team for funding reasons. In that situation, a single person could fill the product manager and delivery lead roles, or delivery lead and technical analyst. It’s important such an accommodation is time limited, to guard against burnout.
 
-### Expand Digital Platform teams
+## Expand Digital Platform teams
 
-We’ve found the number of Digital Platform teams and their team members needs to gradually increase, as the number of Digital Services increases. We recommend increasing the number of platform engineers, and splitting the Digital Platform team, when you have at least five Digital Service teams. We advocate a division of Digital Platform teams based on your platform capabilities, based on which of them need the most investment at that time. 
+We’ve found the number of Digital Platform teams and their team members needs to gradually increase, as the number of Digital Services increases. We recommend increasing the number of platform engineers, and splitting the Digital Platform team, when you have at least five Digital Service teams. We advocate a division of Digital Platform teams based on your platform capabilities, based on which of them need the most investment at that time.
 
 We also suggest the following team roles:
 
@@ -29,9 +29,9 @@ For example, a Digital Platform team with a product manager, a delivery lead, a 
 
 ![Service Team growth driving growth and reorganisation in the platform team around capabilities provided to the Service Teams](../.gitbook/assets/expanding-platform-teams.png)
 
-### Whole Digital Platform funding
+## Whole Digital Platform funding
 
-Funding for the Digital Platform needs to be continuous, multi-year, and come from a single budget holder accountable for Digital Platform success. 
+Funding for the Digital Platform needs to be continuous, multi-year, and come from a single budget holder accountable for Digital Platform success.
 
 The two most common Digital Platform expenses are team costs \(team member salaries\) and cloud provider costs \(e.g. AWS EKS bill\). We’ve seen situations where those costs are paid from two different budgets, which causes unnecessary complications:
 
@@ -45,10 +45,9 @@ Ideally, the single budget holder is the Digital Platform product manager, as a 
 {% tab title="EMEA payments provider example" %}
 At an EMEA payments provider, we started with a Payment Gateway service, with the vision of building a Digital Platform to host and provide other payment services. We invested time in building telemetry tools, which were embedded into the Digital Platform itself.
 
-Within a year, we had a Digital Platform where developers were able to roll out new Digital Services services with minimal help from the Digital Platform team. Newly onboarded teams were able to launch new payment services into production in less than a week. 
+Within a year, we had a Digital Platform where developers were able to roll out new Digital Services services with minimal help from the Digital Platform team. Newly onboarded teams were able to launch new payment services into production in less than a week.
 
-These practices helped us:  
-
+These practices helped us:
 
 * Strong deployment pipelines encouraged teams to deploy frequently.
 * Deployment dashboards helped teams get feedback on their deployment frequency.

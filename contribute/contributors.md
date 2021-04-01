@@ -1,64 +1,10 @@
 # Contributors
 
-This playbook was produced by a number of people within the[ Equal Experts network](https://www.equalexperts.com/our-people/our-network/). We also received feedback from numerous Equal Experts clients. Thank you!
+We would like to say a massive “thank you!” to our numerous colleagues and clients: the brilliant hive mind of the [Equal Experts network](https://www.equalexperts.com/our-people/our-network/) whose wisdom and experiences have made this book possible.
 
-{% tabs %}
-{% tab title="Contributors" %}
-![Adam Hansrod](../.gitbook/assets/adamhansrod%20%281%29.png)
+**This book is dedicated to you.**
 
-![Ali Lotia](../.gitbook/assets/alilotia%20%281%29.png)
+We would also like to call out some specific colleagues who have contributed.
 
-![Alun Coppack](../.gitbook/assets/aluncoppack%20%281%29.png)
-
-![Anant Pal](../.gitbook/assets/anantpal.jpeg)
-
-![Andy Singleton](../.gitbook/assets/andysingleton.png)
-
-![Beccy Stafford](../.gitbook/assets/beccystafford.png)
-
-![Brian Mason](../.gitbook/assets/brianmason.png)
-
-![Dan Haughey](../.gitbook/assets/danhaughey.png)
-
-![Dan Mitchell](../.gitbook/assets/danmitchell.jpg)
-
-![Darren Walker](../.gitbook/assets/darrenwalker.png)
-
-![Dave Hewett](../.gitbook/assets/davehewett.png)
-
-![Edd Grant](../.gitbook/assets/eddgrant%20%281%29.png)
-
-![Isabell Britsch](../.gitbook/assets/isabellbritsch.jpeg)
-
-![Jon Barber](../.gitbook/assets/jonbarber.png)
-
-![Jon Dickinson](../.gitbook/assets/jondickinson.png)
-
-![Katarzyna Kittel](../.gitbook/assets/katarzynakittel.png)
-
-![Kulvinder Singh](../.gitbook/assets/kulvindersingh.jpeg)
-
-![Lyndsay Prewer](../.gitbook/assets/lyndsayprewer.png)
-
-![Matt Ralph](../.gitbook/assets/matthewraplh.png)
-
-![Ogonna Iwunze](../.gitbook/assets/ogonnaiwunze.jpg)
-
-![Paul O&apos;Donnell](../.gitbook/assets/paulodonnell.png)
-
-![Reda Hmeid](../.gitbook/assets/redahmeid.png)
-
-![Sam McGregor](../.gitbook/assets/sammcgregor.png)
-
-![Steve Smith](../.gitbook/assets/stevesmith.jpg)
-
-![Stuart Gunter](../.gitbook/assets/stuartgunter%20%281%29.png)
-
-![Thomas de Cad&apos;oro Granier](../.gitbook/assets/thomasdecadorogranier.png)
-
-![Tom Grace](../.gitbook/assets/tomgrace.png)
-{% endtab %}
-{% endtabs %}
-
-
+[Ali Lotia](https://www.linkedin.com/in/lotia/),[ Anant Pal](https://www.linkedin.com/in/anantkpal/),[ Andy Singleton](https://www.linkedin.com/in/asinglet/), [Beccy Stafford](https://www.linkedin.com/in/rebecca-stafford-a83184a/), [Brian Mason](https://www.linkedin.com/in/brian-mason-3844534/), [Dan Haughey](https://www.linkedin.com/in/danhaughey/), [Dan Mitchell](https://www.linkedin.com/in/daniel-mitchell-b33b6b8/), [Darren Walker](https://www.linkedin.com/in/darrenwalkeruk/), [Dave Hewett](https://www.linkedin.com/in/dave-hewett-b97609/), [Isabell Britsch](https://www.linkedin.com/in/isabell-britsch/), [Jon Barber](https://www.linkedin.com/in/jonbarber/), [Jon Dickinson](https://www.linkedin.com/in/jondickinson/), [Katarzyna Kittel](https://www.linkedin.com/in/kasiakittel/), [Kulvinder Singh](https://www.linkedin.com/in/kulvinder-singh-86358a/), [Lyndsay Prewer](https://www.linkedin.com/in/lyndsp/), [Matt Ralph](https://www.linkedin.com/in/matt-ralph-217b5236/), [Ogonna Iwunze](https://www.linkedin.com/in/ogonnaiwunze/), [Paul O'Donnell](https://www.linkedin.com/in/podconsulting/), [Reda Hmeid](https://www.linkedin.com/in/redahmeid/), [Sam McGregor](https://www.linkedin.com/in/sammcgregor/), [Stuart Gunter](https://www.linkedin.com/in/stuartgunter/), [Thomas de Cad'oro Granier](https://www.linkedin.com/in/thomasgranier/) and [Tom Grace](https://www.linkedin.com/in/theothertom/).
 

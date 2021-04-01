@@ -1,8 +1,8 @@
 # Bootstrap
 
-### Share a vision
+## Share a vision
 
-A Digital Platform vision will help people to understand what you intend to accomplish, and create a powerful framing device for future conversations about platform capabilities. 
+A Digital Platform vision will help people to understand what you intend to accomplish, and create a powerful framing device for future conversations about platform capabilities.
 
 We recommend a Digital Platform vision be produced in a short [Inception](https://inception.playbook.ee/) phase, prior to any team staffing. This will help you bring together stakeholders and potential users to clarify the problems you’re trying to solve in your organisation. It’s also an opportunity to agree upon early Digital Platform boundaries and responsibilities. You may even find that a Digital Platform will not achieve what your organisation needs.
 
@@ -10,9 +10,9 @@ We’ve worked with clients on a number of Digital Platform visions. One example
 
 > JLDP will empower teams through a frictionless & stable state-of-the-art platform, so that they can quickly deliver innovative & high quality services for our customers.
 
-This clearly communicates the intent behind the John Lewis & Partners Digital Platform – a desire to rapidly innovate in Digital Service and benefit customers via team empowerment, opinionated user journeys, and the use of the latest cloud technologies. 
+This clearly communicates the intent behind the John Lewis & Partners Digital Platform – a desire to rapidly innovate in Digital Service and benefit customers via team empowerment, opinionated user journeys, and the use of the latest cloud technologies.
 
-### Measure for success
+## Measure for success
 
 All Digital Platform teams and Digital Service teams need to have measures of success on delivery throughput, production reliability, and user satisfaction. We recommend those measures are publicly radiated on an internal website, for all teams and stakeholders to see.
 
