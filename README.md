@@ -10,7 +10,7 @@ We’ve [open-sourced](https://github.com/EqualExperts/digital-platform-playbook
 
 ### The lead authors of this playbook are:
 
-|  |  |
+|Photo|Name|
 | :--- | :--- |
 | ![](.gitbook/assets/img_2034.png)  | [Adam Hansrod](https://www.linkedin.com/in/adam-hansrod-22940876/) |
 | ![](.gitbook/assets/img_2035.png)  | [Steve Smith](https://www.linkedin.com/in/stevesmithtech/)  |
