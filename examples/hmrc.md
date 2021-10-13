@@ -20,6 +20,10 @@ Equal Experts has worked with HMRC on the Multichannel Digital Tax Platform \(MD
 
 ## Articles
 
-* [How Equal Experts Helped HMRC To Get COVID-19 Relief Money To People Through Continuous Delivery](https://www.equalexperts.com/blog/our-thinking/how-equal-experts-helped-hmrc-to-get-covid-19-relief-money-to-people-through-continuous-delivery/) by Lyndsay Prewer from Equal Experts.
-* [Operability at HMRC](https://www.equalexperts.com/blog/our-thinking/operability-hmrc/) by Alun Coppack from Equal Experts.
+### Alun Coppack
 
+{% embed url="https://www.equalexperts.com/blog/our-thinking/operability-hmrc/" %}
+
+### Lyndsay Prewer
+
+{% embed url="https://www.equalexperts.com/blog/our-thinking/how-equal-experts-helped-hmrc-to-get-covid-19-relief-money-to-people-through-continuous-delivery/" %}
