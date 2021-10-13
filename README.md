@@ -16,8 +16,3 @@ We’ve [open-sourced](https://github.com/EqualExperts/digital-platform-playbook
 | ![](.gitbook/assets/img_2035.png)  | [Steve Smith](https://www.linkedin.com/in/stevesmithtech/)  |
 | ![](.gitbook/assets/img_2032.png)  | [Alun Coppack](https://www.linkedin.com/in/aluncoppack/)  |
 | ![](.gitbook/assets/img_2038.png)  | [Edd Grant](https://www.linkedin.com/in/eddgrant/) |
-
-{% embed url="https://leanpub.com/measuringcontinuousdelivery" %}
-
-
-
