@@ -99,6 +99,8 @@ Digital Platform Teams aren't the owner of an organisation's incident response p
 
 ## Services Catalogue
 
+A services catalogue is an information portal, that maximises the discoverability of teams and services on a digital platform. It's powered by machine-readable metadata sourced from version control systems, deployment tools, metrics aggregators, ticketing workflow systems, and machine-readable post-incident reviews. Portal content usually includes:
+
 * List all Digital Services and their owning teams, in a publicly available catalogue.
 * List all Digital Platform capabilities and their owning teams.
 * List all curated test environments with described intent.
